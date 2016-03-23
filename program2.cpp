@@ -1,39 +1,6 @@
 
-Skip to content
-This repository
-
-    Pull requests
-    Issues
-    Gist
-
-    @awanishanand
-
-1
-0
-
-    67
-
-sonikasnaik/fslab-1 forked from srinivasan-l/fslab
-Code
-Pull requests 0
-Wiki
-Pulse
-Graphs
-fslab-1/lab2/src/lab2.cpp
-d33d72e 11 hours ago
-@sonikasnaik sonikasnaik Update lab2.cpp
-@srinivasan-l
-@sonikasnaik
-262 lines (255 sloc) 4.36 KB
 
 
-//============================================================================
-// Name        : pg2f.cpp
-// Author      :
-// Version     :
-// Copyright   : Your copyright notice
-// Description : Hello World in C++, Ansi-style
-//============================================================================
 #include<sys/types.h>
 #include<string.h>
 #include<fstream>
